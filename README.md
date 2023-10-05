@@ -18,7 +18,7 @@ Don't forget to give the project a star ⭐!
 
 ## 🏆 Contributors
 
-<a href = "https://github.com/origranot/reduced.to/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=origranot/reduced.to"/>
+<a href = "https://github.com/iammadanlal/os_salon_serve/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=iammadanlal/os_salon_server"/>
 </a>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
